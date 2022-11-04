@@ -9,9 +9,9 @@ function commonElements(arr1, arr2, arr3){
 commonElements([1,2,3] , [3,4,5] , [5,6,3,7]);
 
 
-// const promise = new Promise((resolve, reject) => {
-//     resolve("Some message");
-// })
+const promise = new Promise((resolve, reject) => {
+    resolve("Some message");
+})
 
 // promise.then((data) => {
 //     console.log(data)
