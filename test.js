@@ -19,8 +19,8 @@
 
 // new String("Neeraj") -> Object
 
-console.log("Neeraj"["0"])
+console.log("Neeraj"["0"]) //
 
-console.log(new String("Neeraj"))
+console.log(new String("Neeraj")) // string
 
-console.log({} === {});
+console.log({} === {}); // false 
